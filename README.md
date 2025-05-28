@@ -19,6 +19,10 @@ Con una formación que abarca un Título Superior en Aplicaciones Multiplataform
 
 Actualmente estoy explorando otras librerias de componentes en el framework Angular, como por ejemplo, primeng. También estoy empezando con flutter y más adelante comenzare a estudiar react. Por otro lado estoy realizando cursos introductorios en ciberseguridad y hacking etico.
 
+## 🌐 Redes Sociales:
+
+<a href="https://www.instagram.com/tomas_cf4?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="30" width="40"/></a>
+
 
 
 
