@@ -2,6 +2,4 @@
 # 💫 Acerca de mí:
 
 Con una formación que abarca un Título Superior en Aplicaciones Multiplataforma y un Título Medio en Sistemas Microinformáticos y Redes, me posiciono como un desarrollador fullstack versátil. Mi fuerte dominio de Java ha sido la piedra angular para aprender y aplicar tecnologías como .NET, Node.js y Angular, entre otras. Tengo experiencia demostrada en el desarrollo de APIs, el manejo de datos con Entity Framework, la gestión de Docker y la integración de servicios cloud con Firebase y Amazon Web Services (AWS), lo que me permite construir soluciones completas para el frontend y el backend sin problema. Siempre busco ir más allá de lo aprendido, dedicando tiempo a la formación continua, y me entusiasma especialmente crear aplicaciones que no solo sean funcionales y bien estructuradas, sino que también destaquen por su diseño elegante y minimalista.
-
-🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
