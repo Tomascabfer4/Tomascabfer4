@@ -35,7 +35,7 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tomascabfer4/Tomascabfer4/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tomascabfer4/Tomascabfer4/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   <br/>
 </div>
 
