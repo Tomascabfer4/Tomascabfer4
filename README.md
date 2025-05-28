@@ -29,7 +29,7 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
 <a href="https://x.com/tomas_cf4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" height="40" width="40"/></a>
 <a href="https://open.spotify.com/intl-es/artist/3VI8LhD5WxL7oyw3OwY71D?si=OFfVZ2QcQSKYJ7pCoWkxGg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/480px-Spotify_logo_without_text.svg.png" height="40" width="40"/></a>
 
-
+## 💻 Tecnologias:
 
 
 
