@@ -21,7 +21,7 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
 
 ## 🌐 Redes Sociales:
 
-<a href="https://www.instagram.com/tomas_cf4?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="30" width="40"/></a>
+<a href="https://www.instagram.com/tomas_cf4?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="40" width="40"/></a>
 
 
 
