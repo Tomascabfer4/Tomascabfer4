@@ -11,6 +11,10 @@ Con una formación que abarca un Título Superior en Aplicaciones Multiplataform
 
 💭**Puedes preguntarme sobre:**<br>Java, C#, JavaScript, TypeScript, HTML, SCSS, Odoo, .Net, Angular, Ionic, Capacitor, Electron, Node.js, MongoDB, SQL, NeonDB, Algolia, AWS, Firebase, Cloud Functions, Redes y Sistemas Informáticos, ademass de otras preguntas sobre informatica y hardware.
 
+<br>
+
+⚡**Curiosidades sobre mi:**<br>Tengo afición por los videojuegos desde que era pequeño, ademas cuando aún no estaba en mis planes el desarrollo de aplicaciones, empecé un proyecto de DJ, que sigo ejerciendo en mis ratos libres como hobbie.
+
 ## 📃 Desarrollo personal:
 
 Actualmente estoy explorando otras librerias de componentes en el framework Angular, como por ejemplo, primeng. También estoy empezando con flutter y más adelante comenzare a estudiar react. Por otro lado estoy realizando cursos introductorios en ciberseguridad y hacking etico.
