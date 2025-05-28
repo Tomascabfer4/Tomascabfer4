@@ -47,6 +47,10 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Tomascabfer4&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </p>
+
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomascabfer4&theme=github_dark&hide_border=true"/>
+</a>
 </div>
 
 ## 🏆 Trofeos de Github:
