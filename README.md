@@ -27,7 +27,7 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
 <a href="mailTo:tomascabfer4@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="40" width="50"/></a>
 <a href="https://www.linkedin.com/in/tom%C3%A1s-cabello-fern%C3%A1ndez-25b838201/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="40" width="40"/></a>
 <a href="https://x.com/tomas_cf4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" height="40" width="40"/></a>
-
+<a href="https://open.spotify.com/intl-es/artist/3VI8LhD5WxL7oyw3OwY71D?si=OFfVZ2QcQSKYJ7pCoWkxGg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/480px-Spotify_logo_without_text.svg.png" height="40" width="40"/></a>
 
 
 
