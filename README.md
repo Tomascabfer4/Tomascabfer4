@@ -52,3 +52,5 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
 ## 🏆 Trofeos de Github:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tomascabfer4&theme=onestar"/></a> </p>
 
+¡No dudes en explorar mis repositorios y ver en qué proyectos he estado trabajando!
+Siempre estoy abierto a colaborar y aprender nuevas tecnologías.
