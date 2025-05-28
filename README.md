@@ -33,8 +33,14 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
 
 ## 📊 Estadísticas de Github:
 
-![](https://github-readme-stats.vercel.app/api?username=Tomascabfer4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomascabfer4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Tomascabfer4&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomascabfer4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </p>
+</div>
 
 ## 🏆 Trofeos de Github:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tomascabfer4&theme=onestar"/></a> </p>
