@@ -31,6 +31,13 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
 
 ## 💻 Tecnologias:
 
+
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Tomascabfer4/Tomascabfer4/main/resources/img/github-contribution-grid-snake.svg"
+    alt="Tomascabfer4" />
+</p>
+
 ## 📊 Estadísticas de Github:
 
 <div align="center">
