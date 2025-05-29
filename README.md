@@ -57,7 +57,6 @@ Actualmente estoy explorando otras librerias de componentes en el framework Angu
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tomascabfer4/Tomascabfer4/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
