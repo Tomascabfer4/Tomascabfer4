@@ -9,7 +9,7 @@ Con una formación que abarca un Título Superior en Aplicaciones Multiplataform
 
 <br>
 
-💭**Puedes preguntarme sobre:**<br>Java, C#, JavaScript, TypeScript, HTML, SCSS, Odoo, .Net, Angular, Ionic, Capacitor, Electron, Node.js, MongoDB, SQL, NeonDB, Algolia, AWS, Firebase, Cloud Functions, Redes y Sistemas Informáticos, ademass de otras preguntas sobre informatica y hardware.
+💭**Puedes preguntarme sobre:**<br>Java, C#, JavaScript, TypeScript, HTML, SCSS, Odoo, .Net, Entity Framework, Charts.js, API REST, Angular, Ionic, Capacitor, Electron, Node.js, MongoDB, SQL, NeonDB, Algolia, AWS, Firebase, Cloud Functions, Redes y Sistemas Informáticos, ademas de otras preguntas sobre informatica y hardware.
 
 <br>
 
