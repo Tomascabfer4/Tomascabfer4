@@ -16,7 +16,10 @@ Mi stack principal ha evolucionado hacia el ecosistema de JavaScript moderno, es
 
 <br>
 
-⚡**Curiosidades sobre mi:**<br>Tengo afición por los videojuegos desde que era pequeño. Además, cuando aún no estaba en mis planes el desarrollo de aplicaciones, empecé un proyecto de DJ, que sigo ejerciendo en mis ratos libres como hobbie.
+⚡**Curiosidades sobre mi:**
+* Tengo afición por los videojuegos desde que era pequeño. 
+* Cuando aún no estaba en mis planes el desarrollo de aplicaciones, empecé un proyecto de **DJ**, que sigo ejerciendo en mis ratos libres como hobbie.
+* Soy un apasionado del hardware: me dedico al **mantenimiento y reparación de ordenadores, móviles y consolas**. Además, tengo experiencia en el **modding y liberación (jailbreak/pirateo)** de diversos sistemas para sacarles el máximo partido.
 
 ## 📃 Desarrollo personal:
 
