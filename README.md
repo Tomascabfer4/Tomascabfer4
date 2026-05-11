@@ -1,28 +1,19 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=¡Bienvenido/a%20a%20mi%20perfil%20de%20GitHub!;Mi%20nombre%20es%20Tomas%20Cabello;Desarrollador%20Fullstack%20%7C%20React%20%26%20Next.js;Integración%20de%20Inteligencia%20Artificial)
 
-# 💫 Acerca de mí
+# 💫 Sobre mí
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
 </picture>
 
-Con una sólida base técnica que incluye un **Título Superior en Aplicaciones Multiplataforma (DAM)**, un **Título Medio en Sistemas Microinformáticos y Redes (SMR)**, y actualmente cursando el **Título Superior en Desarrollo de Aplicaciones Web (DAW)**, me defino como un desarrollador Fullstack en constante evolución.
+Desarrollador **Fullstack** con formación en **DAM** y **SMR**, actualmente cursando **DAW**.  
+Especializado en **React / Next.js**, con experiencia en backend con **Node.js**, **Java** y **.NET**.
 
-Mi stack principal se centra en el ecosistema JavaScript moderno, especializándome en **React** y **Next.js** para frontend, respaldado por experiencia previa en **Java** y **.NET** para backend. Trabajo de forma habitual con **Inteligencia Artificial**, integrando modelos y APIs para potenciar aplicaciones y automatizar flujos. También tengo experiencia en **Docker, AWS, Firebase, Cloudflare y Supabase** para despliegues escalables.
+Trabajo con **IA aplicada** (LLMs + APIs), automatización de flujos y despliegues modernos con **Cloudflare**, **Supabase**, **Firebase**, **Vercel** y **Netlify**.
 
-💭 **Puedes preguntarme sobre:**  
-React, Next.js, Vue, JavaScript, TypeScript, Node.js, Java, C#, .NET, HTML, CSS, SCSS, Tailwind, API REST, MongoDB, SQL, PostgreSQL, Supabase, Firebase, Cloudflare, Netlify, Vercel, Python e integración de IA (LLMs).
+---
 
-⚡ **Curiosidades sobre mí:**
-- Tengo afición por los videojuegos desde pequeño.
-- Antes de dedicarme por completo al desarrollo, empecé un proyecto de **DJ**, que mantengo como hobby.
-- Me apasiona el hardware: mantenimiento y reparación de ordenadores, móviles y consolas, además de modding/jailbreak en distintos sistemas.
-
-## 📃 Desarrollo personal
-
-Actualmente estoy centrado en mis estudios de **DAW**, perfeccionando arquitecturas avanzadas en **Next.js** y explorando nuevas formas de implementar agentes de IA en entornos web. También continúo formándome en ciberseguridad y hacking ético para reforzar la seguridad de mis desarrollos.
-
-## 🌐 Redes Sociales
+## 🌐 Contacto
 
 <p align="left">
   <a href="https://www.instagram.com/tomas_cf4?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
@@ -48,76 +39,57 @@ Actualmente estoy centrado en mis estudios de **DAW**, perfeccionando arquitectu
   </a>
 </p>
 
-## 💻 Tecnologías
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-111111?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+## 🛠 Stack principal
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Lenis](https://img.shields.io/badge/Lenis-111111?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+## 📊 Estadísticas GitHub
 
 <div align="center">
-  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tomascabfer4&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&v=4" />
+  <br><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tomascabfer4&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&v=4" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Tomascabfer4&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&v=4" />
+</div>
+
+---
+
+## 🐍 Contributions Snake
+
+<div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tomascabfer4/Tomascabfer4/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-  <br>
 </div>
 
-## 📊 Estadísticas de GitHub
+---
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tomascabfer4&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&v=3"
-  />
-  <br><br>
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tomascabfer4&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&v=3"
-  />
-  <br><br>
-  <img
-    src="https://streak-stats.demolab.com?user=Tomascabfer4&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&v=3"
-  />
-</div>
-
-## 🏆 Trofeos de GitHub
+## 🏆 Trofeos
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tomascabfer4&theme=onestar" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tomascabfer4&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-¡No dudes en explorar mis repositorios para ver los proyectos en los que estoy trabajando!  
-Siempre estoy abierto a colaborar, aprender nuevas tecnologías y construir cosas potentes.
+Siempre abierto a colaborar, aprender y construir proyectos potentes 🚀
