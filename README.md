@@ -95,12 +95,17 @@ Actualmente estoy centrado en mis estudios de **DAW**, perfeccionando arquitectu
 
 ## 📊 Estadísticas de GitHub
 
+## 📊 Estadísticas de GitHub
+
 <div align="center">
   <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tomascabfer4&theme=github_dark&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tomascabfer4&theme=github_dark&hide_border=true&layout=compact" />
   </p>
   <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tomascabfer4&theme=github_dark&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tomascabfer4&theme=github_dark&hide_border=true&show_icons=true" />
+  </p>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=Tomascabfer4&theme=github-dark&hide_border=true" />
   </p>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomascabfer4&theme=github_dark" />
